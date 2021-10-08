@@ -1,3 +1,3 @@
 public interface People {
-    void eat();
+    void run();
 }
